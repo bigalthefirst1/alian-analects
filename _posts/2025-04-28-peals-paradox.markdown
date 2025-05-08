@@ -63,7 +63,7 @@ We played R.E.P.O. together and I gained many insights on their relationship wit
 
 I even inquired about the nature behind their behaviour to me, which brings me to a point that all human interactions are transactional. Their strategy in meeting new people and making friends is to make the first move in inquiring about the new person, showing interest and providing an opportunity engage in further discussion. In other words, they show kindness, and the other person may choose to reciprocate.
 
-<video width="1920" height="1080" controls loop = "" muted = "" autoplay = "">
+<video width="640" height="360" controls loop = "" muted = "" autoplay = "">
 <source src="https://github.com/bigalthefirst1/aliananalects/raw/gh-pages/assets/videos/iliketodmpeoplealot.mp4">
 </video>
 
