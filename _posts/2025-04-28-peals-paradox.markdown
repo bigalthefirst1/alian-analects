@@ -51,13 +51,13 @@ This partially works, but has an unintended side effect.
 >*i  wouldnt ghost u my goat*
 >*mr sir ali*
 
-**Reciprocating**
-
 This was all said in the group chat by the same person. I genuinely couldn't tell whether it was sarcastic or not.
 
 All the while my friends in this dm acted oblivious to these conspicious interactions. Were they quietly waiting to see my reactions, like a lab rat being left to its own devices in a new environment? This unknowingness reinforced my feelings of alienation, I was all alone in this new and interesting encounter.
 
 I really wanted to understand the intentions of this person, were they mocking me? Was this genuine kindness and why? Asking my friends, they were unresponsive, even when attempting to discuss it in person. My only option is to continue engaging with this person and slowly gain information to make deductions.
+
+**Reciprocating**
 
 We played R.E.P.O. together and I gained many insights on their relationship with my friends and how they knew eachother. This person was also kind and respectful to talk to in voice chat, and even said I have a nice voice, which left a deep impression on me.
 
