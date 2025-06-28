@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Peals Paradox"
-date:   2025-04-28 17:51:58 -0400
+date:   2025-05-09 17:51:58 -0400
 categories: jekyll update
 ---
 
