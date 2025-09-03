@@ -11,7 +11,7 @@ categories: jekyll update
 
 # **Story Time**
 
-I never fully understood the impact of this quote until the first time I was met with kindness. I was randomly invited to watch the Project Sekai movie with my friends and was brought into a Discord group chat. There were three unfamiliar faces, they all seemed interesting, I made some engagements for fun. My friends induce a mysterious aura on me by placing attention on how differently I behave in person versus in real life. I feel alienated and embarrassed by this so my plan is to make this backfire on them by having the new people feel bad for me. This partially works, but has an unintended side effect.
+I never fully understood the impact of this quote until the first time I was met with kindness. I was randomly invited to watch the Project Sekai movie with my friends and was brought into a Discord group chat. There were three unfamiliar faces, they all seemed interesting, I made some engagements for fun. My friends induce a mysterious aura on me by placing attention on how differently I behave in person versus online. I feel alienated and embarrassed by this so my plan is to make this backfire on them by having the new people feel bad for me. This partially works, but has an unintended side effect.
 
 **Glazing**
 
@@ -51,7 +51,7 @@ I really wanted to understand the intentions of this person, were they mocking m
 
 We played R.E.P.O. together and I gained many insights on their relationship with my friends and how they knew eachother. This person was also kind and respectful to talk to in voice chat, and even said I have a nice voice, which left a deep impression on me.
 
-I even inquired about the nature behind their behaviour to me, which brings me to a point that all human interactions are transactional. Their strategy in meeting new people and making friends is to make the first move in inquiring about the new person, showing interest and providing an opportunity engage in further discussion. In other words, they show kindness, and the other person may choose to reciprocate.
+I even inquired about the nature behind their behaviour to me, which brings me to a point that all human interactions are transactional. Their strategy in meeting new people and making friends is to make the first move in inquiring about the new person, showing interest and providing an opportunity to engage in further discussion. In other words, they show kindness, and the other person may choose to reciprocate.
 
 <video width="640" height="360" controls loop = "" muted = "" autoplay = "">
 <source src="https://github.com/bigalthefirst1/aliananalects/raw/gh-pages/assets/videos/iliketodmpeoplealot.mp4">
