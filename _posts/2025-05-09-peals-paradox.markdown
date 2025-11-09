@@ -11,7 +11,7 @@ categories: jekyll update
 
 # **Story Time**
 
-I never fully understood the impact of this quote until the first time I was met with kindness. I was randomly invited to watch the Project Sekai movie with my friends and was brought into a Discord group chat. There were three unfamiliar faces, they all seemed interesting, I made some engagements for fun. My friends induce a mysterious aura on me by placing attention on how differently I behave in person versus online. I feel alienated and embarrassed by this so my plan is to make this backfire on them by having the new people feel bad for me. This partially works, but has an unintended side effect.
+I never fully understood the impact of this quote until the first time I was met with kindness. I was randomly invited to watch the Project Sekai movie with my friends and was brought into a Discord group chat. There were three unfamiliar faces, they all seemed interesting, I made some engagements for fun. My friends induce a mysterious aura on me by placing attention on how differently I behave in person versus online. I feel alienated and embarrassed by this so my plan is to make this backfire on them by having the new people feel bad for me. This partially works, but has an unintended side effect
 
 **Glazing**
 
