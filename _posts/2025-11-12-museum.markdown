@@ -90,7 +90,7 @@ date:   2025-11-12
 </figure>
 
 <figure style="text-align:center;">
-  <img src="{{ '/assets/museum/16.PNG' | relative_url }}" 
+  <img src="{{ '/assets/museum/18.PNG' | relative_url }}" 
        alt="" 
        style="display:block; margin: 0 auto;">
   <figcaption><em>#pp, owo gaming</em></figcaption>
@@ -98,6 +98,8 @@ date:   2025-11-12
 
 
 <figure style="text-align:center;">
-  <img src="{{ '/assets/museum/19.PNG' | relative_url }}" alt="">
+  <img src="{{ '/assets/museum/19.PNG' | relative_url }}" 
+       alt="" 
+       style="display:block; margin: 0 auto;">
   <figcaption><em>#dy-cage, owo gaming</em></figcaption>
 </figure>
