@@ -1,0 +1,108 @@
+---
+layout: post
+title:  "Museum"
+date:   2025-11-12
+---
+
+# Self-Image Museum
+
+*A self-image is an image that reflects my sense of self.*
+*Welcome to my museum of self-images.*
+
+<figure>
+  <img src="{{ '/assets/museum/1.png' | relative_url }}" alt="The Tablelands, Gros Morne National Park">
+  <figcaption style="text-align:center;"><em>#general, wab</em></figcaption>
+</figure>
+
+<figure>
+  <img src="{{ '/assets/museum/2.png' | relative_url }}" alt="The Tablelands, Gros Morne National Park">
+  <figcaption style="text-align:center;"><em>#csgo, wab</em></figcaption>
+</figure>
+
+<figure>
+  <img src="{{ '/assets/museum/3.png' | relative_url }}" alt="The Tablelands, Gros Morne National Park">
+  <figcaption style="text-align:center;"><em>#csgo, wab</em></figcaption>
+</figure>
+
+<figure>
+  <img src="{{ '/assets/museum/4.png' | relative_url }}" alt="The Tablelands, Gros Morne National Park">
+  <figcaption style="text-align:center;"><em>#csgo, wab</em></figcaption>
+</figure>
+
+<figure>
+  <img src="{{ '/assets/museum/5.png' | relative_url }}" alt="The Tablelands, Gros Morne National Park">
+  <figcaption style="text-align:center;"><em>#general, wab</em></figcaption>
+</figure>
+
+<figure>
+  <img src="{{ '/assets/museum/6.png' | relative_url }}" alt="The Tablelands, Gros Morne National Park">
+  <figcaption style="text-align:center;"><em>#general, Better Grade 9 Server</em></figcaption>
+</figure>
+
+<figure>
+  <img src="{{ '/assets/museum/7.png' | relative_url }}" alt="The Tablelands, Gros Morne National Park">
+  <figcaption style="text-align:center;"><em>#general, Better Grade 9 Server</em></figcaption>
+</figure>
+
+<figure>
+  <img src="{{ '/assets/museum/8.png' | relative_url }}" alt="The Tablelands, Gros Morne National Park">
+  <figcaption style="text-align:center;"><em>#general, wab</em></figcaption>
+</figure>
+
+<figure>
+  <img src="{{ '/assets/museum/9.png' | relative_url }}" alt="The Tablelands, Gros Morne National Park">
+  <figcaption style="text-align:center;"><em>#general, wab</em></figcaption>
+</figure>
+
+<figure>
+  <img src="{{ '/assets/museum/10.png' | relative_url }}" alt="The Tablelands, Gros Morne National Park">
+  <figcaption style="text-align:center;"><em>#news, wab</em></figcaption>
+</figure>
+
+<figure>
+  <img src="{{ '/assets/museum/11.png' | relative_url }}" alt="The Tablelands, Gros Morne National Park">
+  <figcaption style="text-align:center;"><em>#osu, WhiteCat</em></figcaption>
+</figure>
+
+<figure>
+  <img src="{{ '/assets/museum/13.png' | relative_url }}" alt="The Tablelands, Gros Morne National Park">
+  <figcaption style="text-align:center;"><em>#general, WhiteCat</em></figcaption>
+</figure>
+
+<figure>
+  <img src="{{ '/assets/museum/14.png' | relative_url }}" alt="The Tablelands, Gros Morne National Park">
+  <figcaption style="text-align:center;"><em>#general, WhiteCat</em></figcaption>
+</figure>
+
+<figure>
+  <img src="{{ '/assets/museum/15.png' | relative_url }}" alt="The Tablelands, Gros Morne National Park">
+  <figcaption style="text-align:center;"><em>#general, WhiteCat</em></figcaption>
+</figure>
+
+<figure style="text-align:center;">
+  <img src="{{ '/assets/museum/16.png' | relative_url }}" 
+       alt="The Tablelands, Gros Morne National Park" 
+       style="display:block; margin: 0 auto;">
+  <figcaption><em>#pp, owo gaming</em></figcaption>
+</figure>
+
+
+<figure>
+  <img src="{{ '/assets/museum/17.png' | relative_url }}" alt="The Tablelands, Gros Morne National Park">
+  <figcaption style="text-align:center;"><em>#osu, wab</em></figcaption>
+</figure>
+
+<figure style="text-align:center;">
+  <img src="{{ '/assets/museum/18.png' | relative_url }}" 
+       alt="The Tablelands, Gros Morne National Park" 
+       style="display:block; margin: 0 auto;">
+  <figcaption><em>#blank-word, owo gaming</em></figcaption>
+</figure>
+
+
+<figure style="text-align:center;">
+  <img src="{{ '/assets/museum/19.png' | relative_url }}" 
+       alt="The Tablelands, Gros Morne National Park" 
+       style="display:block; margin: 0 auto;">
+  <figcaption><em>#dy-cage, owo gaming</em></figcaption>
+</figure>
