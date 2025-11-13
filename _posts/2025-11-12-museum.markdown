@@ -79,7 +79,7 @@ date:   2025-11-12
   <figcaption><em>#general, WhiteCat</em></figcaption>
 </figure>
 
-<figure style="text-align:center%;">
+<figure style="text-align:center;">
   <img src="{{ '/assets/museum/16.png' | relative_url }}" alt="">
   <figcaption><em>#pp, owo gaming</em></figcaption>
 </figure>
