@@ -74,18 +74,15 @@ date:   2025-11-12
   <figcaption style="text-align:center;"><em>#general, WhiteCat</em></figcaption>
 </figure>
 
-<figure>
-  <img src="{{ '/assets/museum/15.png' | relative_url }}" alt="The Tablelands, Gros Morne National Park">
-  <figcaption style="text-align:center;"><em>#general, WhiteCat</em></figcaption>
+<figure style="text-align:center;">
+  <img src="{{ '/assets/museum/15.png' | relative_url }}" alt="">
+  <figcaption><em>#general, WhiteCat</em></figcaption>
 </figure>
 
-<figure style="text-align:center;">
-  <img src="{{ '/assets/museum/16.png' | relative_url }}" 
-       alt="The Tablelands, Gros Morne National Park" 
-       style="display:block; margin: 0 auto;">
+<figure style="text-align:center%;">
+  <img src="{{ '/assets/museum/16.png' | relative_url }}" alt="">
   <figcaption><em>#pp, owo gaming</em></figcaption>
 </figure>
-
 
 <figure>
   <img src="{{ '/assets/museum/17.png' | relative_url }}" alt="The Tablelands, Gros Morne National Park">
@@ -93,16 +90,14 @@ date:   2025-11-12
 </figure>
 
 <figure style="text-align:center;">
-  <img src="{{ '/assets/museum/18.png' | relative_url }}" 
-       alt="The Tablelands, Gros Morne National Park" 
+  <img src="{{ '/assets/museum/16.png' | relative_url }}" 
+       alt="" 
        style="display:block; margin: 0 auto;">
-  <figcaption><em>#blank-word, owo gaming</em></figcaption>
+  <figcaption><em>#pp, owo gaming</em></figcaption>
 </figure>
 
 
 <figure style="text-align:center;">
-  <img src="{{ '/assets/museum/19.png' | relative_url }}" 
-       alt="The Tablelands, Gros Morne National Park" 
-       style="display:block; margin: 0 auto;">
+  <img src="{{ '/assets/museum/19.png' | relative_url }}" alt="">
   <figcaption><em>#dy-cage, owo gaming</em></figcaption>
 </figure>
